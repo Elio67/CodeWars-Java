@@ -1,1 +1,1 @@
-# Codewars.Java - Solutions
+# Codewars-Java - Solutions
