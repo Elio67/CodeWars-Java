@@ -2,6 +2,7 @@
   if it is multiple of 3 print Buzz
   if it is multiple of 5 print Fizz
   it it is multiple of 3 and 5 print FizzBuzz
+  otherwise print the number
 */
 
 package fuzzbuzz;
